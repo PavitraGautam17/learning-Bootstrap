@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    margin: 5px;
+}
+.hh{
+    text-align: center;
+    margin: 5px;
+}
+img{
+    /* width: 30%;
+    height: 50%; */
+    float: left; 
+    margin: 1.66%;
+}
+.row{
+    width: 100%;
+}
+.row img{
+    width: 87%;
+    height: 99%;
+    float: left;
+    margin: 1.66%;
+}
+.bc{
+    margin-left: 31%;
+    position: relative;
+}
+.newq{
+    margin-left: 47%; 
+    width: 650px;
+    position: relative;
+}
+.content{
+    padding: 16px;
+    margin-left: 5%;
+    font-family: lucida console;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.new img{
+    width: 650px;
+    position: relative;
+    margin-top: 0;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: white;
+}
